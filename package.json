@@ -1,0 +1,11 @@
+{
+  "name": "candy-cache-parser",
+  "version": "1.0.0",
+  "description": "Metaplex candy machine cache file parser for metaboss",
+  "main": "main.js",
+  "author": "johnnyboy-uc@protonmail.com",
+  "license": "MIT",
+  "scripts": {
+    "ccp": "node main.js"
+  }
+}
